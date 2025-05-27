@@ -2,6 +2,7 @@
 
 
 🎓 M.Sc. student in **Biostatistics & Health Data Science**, National and Kapodistrian University of Athens
+
 📐 B.Sc. in **Mathematics** (Applied Mathematics), University of Patras  
 🔬 Passionate about infectious disease modelling, complex systems, biostatistics, and health data analytics  
 
