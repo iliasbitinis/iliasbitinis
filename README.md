@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ilias Bitinis
 
+
 🎓 M.Sc. student in **Biostatistics & Health Data Science**, Medical School of National and Kapodistrian University of Athens
+
 📐 B.Sc. in **Mathematics** (Applied Mathematics), University of Patras  
 🔬 Passionate about infectious disease modelling, complex systems, biostatistics, and health data analytics  
 
