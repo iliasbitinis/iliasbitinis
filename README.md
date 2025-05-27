@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Ilias Bitinis
 
 
-🎓 M.Sc. student in **Biostatistics & Health Data Science**, National and Kapodistrian University of Athens
+🎓 M.Sc. student in **Biostatistics & Health Data Science**, Medical School of National and Kapodistrian University of Athens
 
 📐 B.Sc. in **Mathematics** (Applied Mathematics), University of Patras  
-🔬 Passionate about infectious disease modelling, complex systems, biostatistics, and health data analytics  
+🔬 Passionate about infectious disease modelling, complex systems, biostatistics, and health data science 
 
 ---
 
 ## 🧪 Research Interests
 - Epidemiological modeling (SIR/SEIR, Rt estimation)
 - Bayesian statistics and MCMC simulations
+- Biostatistics
 - Statistical methods in health data science
 - Complex systems and dynamical models in public health
 
