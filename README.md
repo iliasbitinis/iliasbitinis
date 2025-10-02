@@ -37,7 +37,7 @@ More coming soon...
 ## 🌍 Languages
 - Greek: Native  
 - English: Proficient (C2)  
-- German: Intermediate (B1)
+- German: Basic (B1)
 
 ---
 
